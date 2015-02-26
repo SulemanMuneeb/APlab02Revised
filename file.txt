@@ -1,0 +1,8 @@
+Let x=15
+Let y=100
+x=x+y
+y=x*5
+x=y-8
+x=4+y
+y=3*7
+x=y-y
